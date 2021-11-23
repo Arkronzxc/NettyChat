@@ -14,7 +14,7 @@
  
  ## Usage
 ```
- telnet localhost 9999
+ telnet localhost 9998
 
  /login qwe
 
