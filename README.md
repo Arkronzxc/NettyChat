@@ -12,6 +12,7 @@
     -  /users
  - publish: text message terminated with CR - sends message to current channel.
  
+ ## Usage
 ```
  telnet localhost 9999
 
